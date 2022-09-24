@@ -38,4 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
-SELECT YEAR(c23) as YEAR, count(c23) as CANT where YEAR(c23)=2018
+SELECT YEAR(c14) as YEAR, count(*) as CANT where strftime('%Y', c14)='2018'
