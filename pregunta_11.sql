@@ -38,3 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT YEAR(c23) as YEAR, count(c23) as CANT where YEAR(c23)=2018
