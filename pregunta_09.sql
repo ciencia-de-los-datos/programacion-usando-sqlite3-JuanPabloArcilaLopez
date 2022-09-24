@@ -38,4 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
-SELECT * from tbl2 where c21=min(c21)
+SELECT K1, min(c21),c22,c23,c24,c25 from tbl2
