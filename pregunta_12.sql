@@ -42,3 +42,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+SELECT K0, MAX(c12) as MAX(c12), min(C12) as min(C12) from tbl1
