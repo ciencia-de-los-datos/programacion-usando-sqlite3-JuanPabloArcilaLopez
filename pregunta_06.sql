@@ -43,3 +43,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+SELECT * from tbl1 order by c14 where K0="A"
