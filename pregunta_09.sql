@@ -38,4 +38,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
-SELECT K1, min(c21),c22,c23,c24,c25 from tbl2
+SELECT * FROM tbl2 ORDER BY c21  LIMIT 1
